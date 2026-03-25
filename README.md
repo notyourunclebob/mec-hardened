@@ -23,5 +23,7 @@ The app has rate limits and does check for cross site request forgery.
     - Run
     - > ./start.sh
 
+    - Select yes to create a new database
+      
 4. Open in browser
     - > localhost:8080
